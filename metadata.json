@@ -1,0 +1,6 @@
+{
+  "name": "Escape from King Gaurav",
+  "description": "High-stakes top-down stealth and survival action game. Evade King Gaurav and his four elite guards across a treacherous royal arena to reach the exit portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
